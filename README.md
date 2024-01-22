@@ -1,4 +1,4 @@
-### Hi there 👋
+### Helloo 
 
 <!--
 **py1u/py1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on my B.S. in Data Science w/ Minor in Business @ UCR
+- 🌱 I’m currently interested in ML/AI and full-stack development!
+- 👯 I’m looking to collaborate on machine learning projects and learn more about the field of AI, but web development is great too!
+- 💬 Ask me about full-stack development, I'm working on a start up business as a full-stack developer, maybe we can work together 🥳
+- 📫 How to reach me: linkedin! or Instagram :relaxed:
+- 😄 Pronouns: he/him
+- ⚡ Please reach out if you would like to work together or just get to know eachother :raised_hands:
