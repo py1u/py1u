@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently interested in ML/AI and full-stack development!
 - 👯 I’m looking to collaborate on machine learning projects and learn more about the field of AI, but web development is great too!
 - 💬 Ask me about full-stack development, I'm working on a start up business as a full-stack developer, maybe we can work together 🥳
-- 📫 How to reach me: linkedin! or Instagram :relaxed:
+- 📫 How to reach me: linkedin! www.linkedin.com/in/peter-lu1 or Instagram: peterr.lu :relaxed:
 - 😄 Pronouns: he/him
-- ⚡ Please reach out if you would like to work together or just get to know eachother :raised_hands:
+- ⚡ Please reach out if you would like to work together or just get to know eachother! 
