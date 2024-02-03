@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin! www.linkedin.com/in/peter-lu1 or Instagram: peterr.lu :relaxed:
 - 😄 Pronouns: he/him
 - ⚡ Please reach out if you would like to work together or just get to know eachother!
+- my email: plu040@ucr.edu
 - note: this is a new profile, will be transferring old projects here.
 
 
