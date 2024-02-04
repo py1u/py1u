@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my B.S. in Data Science w/ Minor in Business @ UCR graduating in spring 2024 + Masters in Science in Artificial Intelligence @ NTU in fall 2024
-- 🌱 I’m currently interested in ML/AI and full-stack development!
-- 👯 I’m looking to collaborate on machine learning projects and learn more about the field of AI, but fullstack development is great too!
+- 🔭 I’m currently working on my B.S. in Data Science w/ Minor in Business @ UCR graduating in spring 2024 + Masters in Science in Artificial Intelligence @ NTU sg in winter 2025
+- 🌱 I’m currently interested in the field of machine learning and AI and its applications in healthcare.
+- 👯 I’m looking to collaborate on machine learning projects and learn more about the field of AI, but full-stack development in SWE is great too!
 - 💬 Ask me about full-stack development, I'm working on a start up business as a full-stack developer, maybe we can work together 🥳
 - 📫 How to reach me: linkedin! www.linkedin.com/in/peter-lu1 or Instagram: peterr.lu :relaxed:
 - 😄 Pronouns: he/him
 - ⚡ Please reach out if you would like to work together or just get to know eachother!
 - my email: plu040@ucr.edu
-- note: this is a new profile, will be transferring old projects here.
+- note: this is a new profile, will be transferring many old projects here.
 
 
