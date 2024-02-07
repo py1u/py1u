@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Please reach out if you would like to work together or just get to know eachother!
 - my email: plu040@ucr.edu
-- note: this im working on account migration to this business account, so ill be pulling local repositories from my old account.
+- **note:** im working on my personal account migration to this business account, so ill be pulling local repositories from my old account. If you worked with me on a project in the past and would like to get a copy of the repository, let me know and ill be happy to send the files. 
 
 
