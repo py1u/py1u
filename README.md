@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my B.S. in Data Science w/ Minor in Business @ UC Riverside graduating in spring 2024 + Masters in Science in Artificial Intelligence @ NTU in Fall 2025
+- 🔭 I’m currently working on my B.S. in Data Science w/ Minor in Business @ UC Riverside graduating in spring 2024 + Masters in Science in Artificial Intelligence @ NTU in spring 2025
 - 🌱 I’m currently interested in the field of machine learning and AI and its applications in healthcare.
 - 👯 I’m looking to collaborate on machine learning projects and learn more about the field of AI, but full-stack development in SWE is great too!
 - 💬 Ask me about full-stack development, I'm working on a start up business as a full-stack developer, maybe we can work together 🥳
