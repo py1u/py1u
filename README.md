@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Please reach out if you would like to work together or just get to know eachother!
 - my email: plu040@ucr.edu
-- membership: BearHack 2023- , CitrusHack 2021-2023, CutieHack: 2021, ASUCR 2022, ACM 2021- 
+- Leaderships: Design@UCR 2024 - , BearHack 2023- , CitrusHack 2021-2023, CutieHack: 2021, ASUCR 2022, ACM 2021-, SD 2024 -
 - **note:** im working on data migration to a private developer account off github, so ill be pulling local repositories from my old account. If you worked with me on a project in the past and would like to get a copy of the repository, let me know and ill be happy to send the files. 
 
 
