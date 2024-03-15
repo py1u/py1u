@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my B.S. in Data Science + Business @ UC Riverside graduating in spring 2024 + Masters in Science in Artificial Intelligence @ NTU in spring 2025
 - 🌱 I’m currently interested in the field of machine learning and AI productization.
 - 👯 I’m looking to collaborate on machine learning projects and create AI powered business products, but full-stack development is great too!
-- 💬 Ask me about full-stack development, I'm working on a start up business as a software engineering lead, maybe we can work together 🥳
+- 💬 Ask me about full-stack development, I'm working on a start up business as a lead software engineer, maybe we can work together 🥳
 - 📫 How to reach me: linkedin! www.linkedin.com/in/peter-lu1 or Instagram: peterr.lu :relaxed:
 - 😄 Pronouns: he/him
 - ⚡ Please reach out if you would like to work together or just get to know eachother!
