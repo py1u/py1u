@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ⚡ Please reach out if you would like to work together or just get to know each other!
 
-📧 My email: plu040@ucr.edu
+📧 My email: plu040@ucr.edu Business Inquires: py1u.dev@gmail.com
 
 🎖️ **Leaderships:** Design@UCR 2022 - , BearHack 2023- , CitrusHack 2021-2023, CutieHack: 2021-2023, ASUCR 2022, ACM 2021-2022
 
