@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 📧 My email: plu040@ucr.edu
 
-🎖️ **Leaderships:** Design@UCR 2024 - , BearHack 2023- , CitrusHack 2021-2023, CutieHack: 2021-2023, ASUCR 2022, ACM 2021-2022
+🎖️ **Leaderships:** Design@UCR 2022 - , BearHack 2023- , CitrusHack 2021-2023, CutieHack: 2021-2023, ASUCR 2022, ACM 2021-2022
 
 **Note:** I'm working on data migration to a private developer account off GitHub, so I'll be pulling local repositories from my old account. If you worked with me on a project in the past and would like to get a copy of the repository, let me know and I'll be happy to send the files.
 
