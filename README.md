@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently interested in the field of machine learning and AI productization.
 
-👯 I’m looking to collaborate on machine learning projects and create AI powered business products, but I full-stack development & UI/UX design is one of my interests too!
+👯 I’m looking to collaborate on machine learning projects and create AI powered business products, but full-stack development & UI/UX design is one of my interests too!
 
 💬 Ask me about full-stack development, I'm working on a start up business as a lead software engineer, maybe we can work together 🥳
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 📧 My email: plu040@ucr.edu Business Inquires: py1u.dev@gmail.com
 
-🎖️ **Leaderships:** Design@UCR 2022 - , BearHack 2023- , CitrusHack 2021-2023, CutieHack: 2021-2023, ASUCR 2022, ACM 2021-2022
+🎖️ **Leaderships:** Design@UCR 2022 - , BearHack 2023- , CitrusHack 2021-2022, CutieHack: 2021, ASUCR 2022, ACM 2021-2022
 
 **Note:** I'm working on data migration to a private developer account off GitHub, so I'll be pulling local repositories from my old account. If you worked with me on a project in the past and would like to get a copy of the repository, let me know and I'll be happy to send the files.
 
