@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 📧 My email: plu040@ucr.edu Business Inquires: py1u.dev@gmail.com
 
-☕ **Leadership:** VP of Software Engineering @ DAU
+☕ **Leadership:** VP of Software Engineering @ DAU, Bearhack Marketing Lead
 
 🎖️ **Organizations:** Design@UCR 2021 - , BearHack 2023- , CitrusHack 2021-2022, CutieHack: 2021, ASUCR 2022, ACM 2021-2022
 
