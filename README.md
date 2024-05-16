@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on my B.S. in Data Science + Business @ UC Riverside graduating in spring 2024 + Masters in Science in Artificial Intelligence @ NTU in spring 2025
+🔭 I’m currently working on my B.S. in Data Science + Business @ UC Riverside graduating in spring 2024 
 
 🌱 I’m currently interested in the field of machine learning and AI productization.
 
