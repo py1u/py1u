@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 🎖️ **Organizations:** Design@UCR 2024 - , BearHack 2024 , CitrusHack 2021-2022, CutieHack: 2021, ACM 2021
 
-**Note:** I'm working on data migration to a private developer account off GitHub, so I'll be pulling local repositories from my old account. If you worked with me on a project in the past and would like to get a copy of the repository, let me know and I'll be happy to send the files.
--->
-
 🔭 I’m currently working on my B.S. in Data Science + Business @ UC Riverside graduating in spring 2024 
 
 🌱 I’m currently interested in the field of machine learning and AI productization.
@@ -34,6 +31,12 @@ Here are some ideas to get you started:
 ⚡ Please reach out if you would like to work together or just get to know each other!
 
 📧 My email: plu040@ucr.edu Business Inquires: py1u.dev@gmail.com
+
+**Note:** I'm working on data migration to a private developer account off GitHub, so I'll be pulling local repositories from my old account. If you worked with me on a project in the past and would like to get a copy of the repository, let me know and I'll be happy to send the files.
+-->
+Data Science and Business Student at University of California, Riverside
+
+📧 My email: plu040@ucr.edu Business inquires: py1u.dev@gmail.com
 
 
 
