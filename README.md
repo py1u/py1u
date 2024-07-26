@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 **Note:** I'm working on data migration to a private developer account off GitHub, so I'll be pulling local repositories from my old account. If you worked with me on a project in the past and would like to get a copy of the repository, let me know and I'll be happy to send the files.
 -->
-Data Science and Business Student at University of California, Riverside
+Data Science and Business Graduate from University of California, Riverside
 
 📧 My email: plu040@ucr.edu Business inquires: py1u.dev@gmail.com
 
