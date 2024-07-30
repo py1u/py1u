@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 Data Science and Business Graduate from University of California, Riverside
 
-AI/ML Engineer @ PIKA
+AI/ML Engineering
 
 📧 My email: plu040@ucr.edu Business inquires: py1u.dev@gmail.com
 
